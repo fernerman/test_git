@@ -24,11 +24,7 @@ public class Test {
                 '}';
     }
 
-    public String getMew() {
-        return mew;
-    }
-
-    public void setMew(String mew) {
-        this.mew = mew;
+    public Test getTest2() {
+        return test2;
     }
 }
