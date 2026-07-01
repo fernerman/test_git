@@ -1,5 +1,6 @@
 package org.example;
 
 public class Test {
-    private final Test test=new Test();
+    private  Test testik=new Test();
+    private Test testt= new Test();
 }
